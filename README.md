@@ -1,7 +1,11 @@
-# Cell-driven information fusion — code and results
+# Explainable t-SNE, cell-driven information fusion — code and results
 
-Reference implementation and released scores for *Cell-Driven Information Fusion:
-Explainable, Preprocessing-Free Embedding of Single-Cell RNA-seq Data at Atlas Scale*.
+Reference implementation and released scores for *Explainable t-SNE for Single-Cell
+RNA-seq Data Analysis: A Cell-Driven Information Fusion Framework*.
+
+It extends the earlier preprint *Explainable t-SNE for single-cell RNA-seq data
+analysis* (bioRxiv 2022.01.28.478205) to a full fusion framework with a second
+backbone and atlas-scale evidence.
 
 Author: Henry Han. MIT licensed.
 

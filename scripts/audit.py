@@ -82,7 +82,8 @@ def paired(index, method):
     return ours[usable], theirs[usable]
 
 
-print("Cell-driven information fusion: every number in the paper, recomputed\n")
+print("Explainable t-SNE, cell-driven information fusion:\n"
+      "every number in the paper, recomputed from the released scores\n")
 
 # ---- the benchmark itself
 raw = sheet("nmi_raw.csv")
